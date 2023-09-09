@@ -15,7 +15,7 @@ body {
 
 
 .navbar{
-    background-image: url('/img/navbar.png');
+    background-image: url('img/navbar.png');
     background-size: cover;
     background-repeat: no-repeat;
     width: 100%;
@@ -25,7 +25,7 @@ body {
 
    @media (max-width: 768px) {
     .navbar {
-        background-image: url('/img/navbar.png');
+        background-image: url('img/navbar.png');
         height: 320px;
     }
 } 
